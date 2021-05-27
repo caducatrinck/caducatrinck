@@ -1,16 +1,13 @@
-### Hi there 👋
+Carlos Eduardo Catrinck é um Tecnólogo em Análise e Desenvolvimento de Sistemas 
+buscando conhecimento na área de desenvolvimento.
+-
 
-<!--
-**caducatrinck/caducatrinck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[Web Login React](https://catrinck-login.netlify.app)
+
+Front-End: Tela de Login (React) em typescript utilizando material-UI, validação utilizando Yup/Formik, comunicação asincrona com API utilizando useQuery e hospedado no Netlify.
+
+Back-End: Rest Api em nodejs, utilizando JWT token para autenticação de rotas privadas, comunicando com banco de dados ClearDB MySQL hospedado no Heroku.
