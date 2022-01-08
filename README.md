@@ -7,7 +7,7 @@ buscando conhecimento na área de desenvolvimento.
 
 [React-Native Tutorials](https://github.com/caducatrinck/react-native-tutorials)
 
-Trabalhando com React Native acumulei algum conhecimento na area e estou compartilhando aqui alguns tutoriais relacionados ao desenvolvimento mobile.
+Trabalhando com React Native acumulei conhecimentos na area e estou compartilhando aqui alguns tutoriais relacionados ao desenvolvimento mobile.
 
 
 
