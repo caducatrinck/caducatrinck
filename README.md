@@ -1,25 +1,11 @@
-### Desenvolvimento Frontend:
-Possui domínio sobre frameworks como React, React Native, Next.js e Angular, criando interfaces reutilizáveis e responsivas. Seu conhecimento em bibliotecas de manipulação de contexto global, como Redux, Recoil, MobX e Zustand, torna suas aplicações mais eficientes e menos verbosas. Para garantir a qualidade do código, utiliza Jest, React Testing Library, Cypress e TestCafe, implementando testes para validar diversos cenários e regras de negócio. Seu conhecimento em bibliotecas que auxiliam na implementação de protótipos (FIGMA), como Material UI, FluentUI, RadixUI, Styled-System, CSS e HTML, facilita a criação de uma boa experiência do usuário.
+Analista de Sistemas com pós-graduação em Engenharia de Software e sólida experiência no desenvolvimento de aplicações web escaláveis, arquitetura de software e integração de serviços.
 
-### Desenvolvimento Backend:
-Utiliza Node.js, NestJS e Laravel para criar APIs robustas e escaláveis. Tem conhecimento em integrações modernas com OAuth Google, Facebook Auth, AWS S3, Lambda e AWS SDK, ou implementando seu próprio middleware de segurança com criptografia utilizando Crypto e bcrypt. Com conhecimento em DevOps, trabalha com Docker, Nginx, AWS, Jenkins, Kubernetes e OpenShift para garantir uma entrega contínua e fácil manutenção de sistemas. Também possui conhecimento em integração com bancos de dados como MongoDB, DynamoDB e Postgres, construindo requests com alta performance e persistência de dados.
+Atua como Desenvolvedor Full Stack Sênior, com forte domínio de React, Vue.js, NestJS, Node.js, JavaScript e TypeScript, participando desde a definição da arquitetura até a implementação, evolução e sustentação de sistemas em produção. 
 
+Possui experiência na construção de aplicações de alta complexidade, APIs REST, autenticação e  autorização, integrações entre serviços, gerenciamento de estado, operações assíncronas, otimização de performance, testes automatizados e aplicação de boas práticas de engenharia  de software, sempre com foco em escalabilidade, manutenibilidade e qualidade de código.  
 
+Tem experiência na definição de arquitetura de frontend e backend, modelagem de soluções, revisão de código, refatoração de sistemas legados, validação de requisitos e tomada de  decisões técnicas voltadas à evolução contínua dos produtos. 
 
-[React-Native Tutorials](https://github.com/caducatrinck/react-native-tutorials)
+Combina uma visão fora da caixa, pensamento analítico e experiência técnica para transformar requisitos de negócio em soluções práticas, sustentáveis e alinhadas às boas práticas de desenvolvimento de software.
 
-Trabalhando com React Native acumulei conhecimentos na area e estou compartilhando aqui alguns tutoriais relacionados ao desenvolvimento mobile.
-
-
-
-[Web Login React](https://catrinck-login.netlify.app)
-
-Tela de Login (React) em typescript utilizando material-UI, validação utilizando Yup/Formik, comunicação asincrona com API utilizando useQuery e hospedado no Netlify.
-Rest Api em nodejs, utilizando JWT token para autenticação de rotas privadas, comunicando com banco de dados ClearDB MySQL hospedado no Heroku.
-
-
-[Souza Pilares Site](http://souzapilares.com.br)
-
-Landing page feita para empresa de seguros em Javascript utilizando React, estilização com a biblioteca Material-UI, com intuito de automatizar orçamentos de segurados e informa-los sobre os serviços da empresa e como eles funcionam. Utilizo a biblioteca emailJS que envia e mails personalizados sem necessitar de um backend.
-
-
+Possui experiência na utilização de ferramentas de Inteligência Artificial aplicadas ao desenvolvimento de software, como Claude e Cursor, empregando esses recursos para acelerar desenvolvimento, documentação, geração de testes e aumento da produtividade da equipe, sempre revisando o código gerado para manter a qualidade e dominio do código.
